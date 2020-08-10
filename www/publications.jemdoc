@@ -1,0 +1,96 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+~~~
+- Author names below in italics are students in my group.
+- [https://scholar.google.com/citations?user=3-nlJyUAAAAJ&hl=en Full Publication List and Technical Reports]
+~~~
+
+
+== Conference Papers
+
+- \[IPSN’20\] [./papers/ipsn-143-chen.pdf SolarFinder: Automatic Detection of Solar Photovoltaic Arrays].\n
+/Qi Li/, /Yuzhou Feng/, /Yuyang Leng/ and *Dong Chen*.\n
+In Proc. of the 19th ACM/IEEE International Conference on Information Processing in Sensor Networks, IPSN'20, April 21-24, 2020, Sydney, Australia, Acceptance Rate = 21.33%.
+
+- \[Milcom'19\] [./papers/iotspot.pdf IoTSpot: Identifying the IoT Devices Using Their Anonymous Network Traffic Data].\n
+Liangdong Deng, /Yuzhou Feng/, *Dong Chen*, and Naphtali Rishe. \n
+In Proc. of the 38th IEEE Military Communications Conference, MILCOM 2019, November 12-14, 2019, Norfolk, VA.
+
+- \[MASS'19\] [./papers/solartk.pdf Solar-TK: A Data-driven Toolkit for Solar PV Performance Modeling and Forecasting].\n
+Noman Bashir, *Dong Chen*, David Irwin, and Prashant Shenoy. \n
+In Proc. of the 16th IEEE International Conference on Mobile Ad-Hoc and Smart Systems, November 4-7, 2019, Monterey, CA, USA.
+
+- \[BuildSys'18\] [./papers/buildsys2018.pdf Staring at the Sun: A Physical Black-box Solar Performance Model]. \n
+*Dong Chen*, Joseph Breda, David Irwin.\n
+In Proc. of the 2018 ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys'18), November 07 - 08, 2018. Acceptance rate: 24.19%.
+
+- \[ICDCS'18\] [./papers/icdcs18.pdf Private Memoirs of IoT Devices: Safeguarding User Privacy in the IoT Era].\n
+*Dong Chen*, Phuthipong Bovornkeeratiroj, David Irwin and Prashant Shenoy. \n
+In Proc. of the 38th IEEE International Conference on Distributed Computing Systems (ICDCS'18), July 2 – 5, 2018, Vienna, Austria.
+
+- \[BigData'17\] [./papers/weatherman.pdf Weatherman: Exposing Weather-based Privacy Threats in Big Energy Data].\n
+*Dong Chen*, David Irwin.\n
+In Proceedings of 2017 IEEE International Conference on Big Data (BigData'17), Boston, MA, USA, Dec 11-14, 2017. Accept Rate = 87/437 = 20%.
+
+
+- \[eEnergy'17\] [./papers/p45-Chen.pdf SunDance: Black-box Behind-the-Meter Solar Disaggregation].\n
+*Dong Chen*, David Irwin.\n
+In Proceedings of the eighth ACM International Conference on Future Energy Systems (e-Energy'17), Hongkong, 2017. Acceptance ratio = 26.7%.\n
+
+- \[BuildSys'16\] [./papers/buildsys16.pdf SunSpot: Exposing the Location of Anonymous Solar-powered Homes].\n
+*Dong Chen*, Srinivasan Iyengar, David Irwin, Prashant Shenoy.\n
+In Proceedings of the 2016 ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys'16), Stanford, CA, USA, 2016. Accept Rate = 24.48%.\n
+
+- \[SmartGridComm'16\] [./papers/smartgridcomm16.pdf SmartSim: A Device-Accurate Smart Home Simulator for Energy Analytics].\n
+*Dong Chen*, David Irwin, Prashant Shenoy.\n
+In Proceedings of the 2016 IEEE International Conference on Smart Grid Communications (SmartGridComm'16), Sydney, Australia, 2016.\n
+
+- \[Percom'14\] [./papers/percom14.pdf Combined Heat and Privacy: Preventing Occupancy Detection from Smart Meters].\n
+*Dong Chen*, David Irwin, Prashant Shenoy, Jeannie Albrecht.\n
+In Proceedings of the 12th IEEE International Conference on Pervasive Computing and Communications (Percom'14), Budapest, Hungary, 2014. Acceptance rate = 14%.
+
+- \[ICGEC'11] A novel secure architecture for the Internet of Things.\n
+*Dong Chen*, Guiran Chang.\n
+In Proceedings of 2011 Fifth International Conference on Genetic and Evolutionary Computing, pages: 311-314.
+
+== Journal Articles
+
+- \[Sensors\] A Dynamic Estimation of Service Level Based on Fuzzy Logic for Robustness in the Internet of Things. \n
+Bing Jia, Lifei Hao, Chuxuan Zhang, and *Dong Chen*. \n
+Sensors, 18(7), 2019.
+
+- \[TOSG\] [./papers/tosg_.pdf Preventing Occupancy Detection from Smart Meters].\n
+*Dong Chen*, Sandeep Kalra, David Irwin, Prashant Shenoy, and Jeannie Albrecht.\n
+IEEE Transactions on Smart Grid, 6(5), pp.2426-2434, 2015, Impact Factor: 8.267.
+
+- \[ComSiS\] TRM-IoT: A trust management model based on fuzzy reputation for internet of things.\n
+*Dong Chen*, Guiran Chang, Dawei Sun, Jie Jia, Xingwei Wang.\n
+Comput. Sci. Inf. Syst. 8 (4), 1207-1228, 2011.
+
+- \[TIIS\] A survey on security issues of M2M communications in cyber-physical systems.\n
+*Dong Chen*, Guiran Chang. \n
+KSII Transactions on Internet and Information Systems (TIIS) 6 (1), 24-45, 2011.
+
+== Workshop Papers, Demos, and Posters
+
+- \[BuildSys'19\] Solar-TK: A Solar Modeling and Forecasting Toolkit: Demo.\n
+Noman Bashir, *Dong Chen*, David Irwin, Prashant Shenoy.\n
+In Proceedings of Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, BuildSys'19, New York.
+
+- \[WiSec'20\] IoT devices discovery and identification using network traffic data: poster.\n
+Yuzhou Feng, Liangdong Deng, *Dong Chen*.\n
+In Proceedings of the 12th Conference on Security and Privacy in Wireless and Mobile Networks, Miami.
+
+- \[WiSec'20\] Exposing the location of anonymous solar-powered homes: poster. \n
+Qi Li, *Dong Chen*. \n
+In Proceedings of the 12th Conference on Security and Privacy in Wireless and Mobile Networks, Miami.
+
+
+- \[Greenmetrics'17] [./papers/greenmetrics17.pdf Black-box Solar Performance Modeling: Comparing Physical, Machine Learning, and Hybrid Approaches].\n
+*Dong Chen*, David Irwin.\n
+In Proceedings of 2017 ACM Greenmetrics (Greenmetrics'17), Urbana-Champaign, IL, USA, June 6, 2017. Re-published: Performance Evaluation Review, Vol. 45, No. 2, September 2017.
+
+- \[BuildSys'13\] [./papers/buildsys13.pdf Non-Intrusive Occupancy Monitoring using Smart Meters].\n
+*Dong Chen*, Sean Barker, Adarsh Subbaswamy, David Irwin, Prashant Shenoy.\n
+In Proceedings of the Fifth ACM Workshop On Embedded Sensing Systems For Energy-Efficiency In Buildings (BuildSys'13), Roma, Italy, November 11-15, 2013. Accept Ratio = 39%.

@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{menu.html}
+# jemdoc: menu{MENU}{index.html}
 = jemdoc -- add a menu
 
 jemdoc provides an easy way to add a `menu' like the one you see at the left of
@@ -7,7 +7,7 @@ directory. This website's +MENU+ looks something like this:
 
 ~~~
 {}{}
-jemdoc
+Dong Chen
     home                [index.html]
     download            [download.html]
     revision history    [revision.html]

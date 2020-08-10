@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{useful.html}
+= Useful links
+
+~~~
+Below are some useful links.
+~~~
+
+== Free OS textbooks
+
+- [http://pages.cs.wisc.edu/~remzi/OSTEP/ Operating Systems: Three Easy Pieces]
+
+== CS Ranking
+
+- [http://csrankings.org/ CSRankings: Computer Science Rankings].
+

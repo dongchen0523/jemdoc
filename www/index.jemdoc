@@ -1,49 +1,58 @@
-# jemdoc: menu{MENU}{index.html}, showsource
-= jemdoc -- light markup
-[http://stanford.edu/~jacobm/ Jacob Mattingley] ([jacobm@stanford.edu])
+# jemdoc: menu{MENU}{index.html}
 
-jemdoc is a light text-based markup language designed for creating 
-websites. It takes a text file written with [example.html jemdoc markup], an
-optional configuration file and an optional menu file, and makes static websites
-that look something like this one, [http://cvxmod.net/ that one] or
-[http://www.stanford.edu/class/ee364a/ another one].
-
-jemdoc was inspired by [http://www.methods.co.nz/asciidoc/ AsciiDoc], which is a
-text document format. AsciiDoc is great, and lots of the ideas from AsciiDoc are
-copied in jemdoc. The main differences are that jemdoc is simpler (you could say
-deliberately feature poor) and has more consistent syntax.
-
-[download.html Download jemdoc.]
+\n
 
 ~~~
-Version +0.7.3+ was released on 2012-11-27 with some small bug fixes.
-See the [revision.html release notes].
+{}{img_left}{./dongchen.jpeg}{alt text}{131}{190}{http://users.cis.fiu.edu/~dochen/}
+=== DONG CHEN
+Assistant Professor,\n
+[https://www.cis.fiu.edu/ School of Computing and Information Sciences],\n
+[https://www.fiu.edu/ Florida International University, The State University of Florida at Miami].\n
 ~~~
 
-[https://github.com/jem/jemdoc Contribute to jemdoc on github.]
+== About me
 
-== Goals
-- Simple, consistent syntax.
-- $\mbox{\LaTeX}$ [latex.html equation support].
-- [tables.html Table support].
-- Portability. The (single) jemdoc [http://www.python.org/ Python] file \+
-  single css file \+ your input file {{&rarr;}} html.
-- Based on [http://www.w3.org/Style/CSS/ CSS] so formatting specifics are
-  independent of jemdoc.
-- Production of clean,
-  [http://validator.w3.org/check/referer
-  standards-compliant] [http://www.w3.org/TR/xhtml11/ XHTML 1.1].
-- Minimal bells and whistles, but simple fallback to raw html if required.
+~~~
+I am an Assistant Professor of School of Computing and Information Sciences (SCIS). I received my second Ph.D. in Electrical and Computer Engineering from [https://www.umass.edu/ UMass Amherst] in 2018 under the supervision of Professor [http://www.ecs.umass.edu/~irwin/index.html David Irwin]. Before that, I finished my first Ph.D. in Computer Science in 2014 from [http://english.neu.edu.cn/ Northeastern University] China where I was advised by Professor Guiran Chang. I also worked in industry for two years. At FIU SCIS, I lead the [https://cps.cis.fiu.edu/ Cyber-Physical Systems Laboratory (CPSLab)].
+~~~
 
-== License
-Copyright \C 2007--2012 Jacob Mattingley.
+== Research Interests
 
-jemdoc is free software; you can redistribute it and\/or modify it under the
-terms of the [http://www.gnu.org/licenses/gpl-3.0.html GNU General Public
-License] as published by the Free Software Foundation; either version 3 of the
-License, or (at your option) any later version.
+~~~
+- My research group aims to build data-driven computer systems with a particular emphasis on sustainability, system security and data privacy of Cyber-Physical Systems (CPS) such as smart homes, smart grid, smart transportation, and smart cities. 
+- Our work has been spanning multiple technical fields, including machine learning, deep learning, image processing, and privacy implication. We [https://github.com/cyber-physical-systems/ open-source] all the systems (including their evaluation datasets) we build.
+~~~
 
-jemdoc is distributed in the hope that it will be useful, but WITHOUT ANY
-WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-PARTICULAR PURPOSE. See the [http://www.gnu.org/licenses/gpl-3.0.html GNU
-General Public License] for more details.
+== What's New
+
+~~~
+- 08/2020 Serve as TPC member for [https://conferences.computer.org/iotDI/2021/index.html IoTDI'21], part of CPS-IoT Week 2021, please consider submitting!
+- 06/2020 Organize [http://54.89.135.35/ BigDataCPS'20], please consider submitting!
+- 05/2020 Serve as TPC member for [http://buildsys.acm.org/2020/ BuildSys'20], please consider submitting!
+- 04/2020 Serve as TPC member for [https://www.igscc.org/ IGSC'20], please consider submitting!
+- 04/2020 Serve as TPC member for [http://bigdataieee.org/BigData2020/index.html BigData'20], Atlanta, please consider submitting!
+- 04/2020 Two PhD students: Qi and Yuzhou passed their Ph.D. qualifying exams.
+- 04/2020 IoT device security research is funded by *Cyber Florida Collaborative Seed Program*.
+- 03/2020 SolarFinder source code and data are released on [https://github.com/cyber-physical-systems/SolarFinder CPS GitHub].
+- 01/2020 SolarFinder paper accepted at [https://ipsn.acm.org/2020/index.html ACM//IEEE IPSN 2020] (AR: 22.13%), part of CPS-IoT Week 2020.
+- 10/2019 Received Appreciation Certificate from IGSC Steering Committee.
+- 09/2019 Organize CPSBigData 2019 Workshop.
+- 08/2019 Solar-TK paper is accepted at (the 16th) [https://sites.google.com/view/mass2019 MASS 2019].
+- 08/2019 IoT device identification paper is accepted at (the 38th) [https://events.afcea.org/MILCOM19/Public/enter.aspx MilCom 2019].
+- 06/2019 Serve as PC member for AIChallengeIoT 2019, New York.
+- 04/2019 Serve as Keynote Speaker at Cybersecurity in Florida Public Transportation Workshop.
+- 04/2019 Attend NSF CISE Career Workshop with travel grant.
+- 04/2019 Serve as PC member for IEEE AICCSA'19, Abu Dhabi, UAE.
+- 03/2019 Serve as PC member for IEEE BigData'19, Los Angeles, USA.
+- 01/2019 Smart Building Image Processing Project is funded by *Google Cloud* $9,976.
+- 09/2018 Sun paper is accepted to [http://buildsys.acm.org/2018/ ACM BuildSys'18] (Accept Rate: 24.19%)
+- 08/2018 Joined FIU SCIS as tenure-track Assistant Professor.
+~~~
+
+== Contact
+
+Address: 11200 S.W. 8th Street, CASE 385, Miami, FL 33199.\n 
+Office: (305) 348-7983\n
+~~~
+{}{img_left}{./email.jpeg}{alt text}{130}{20}{}
+~~~
