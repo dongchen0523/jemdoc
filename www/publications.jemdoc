@@ -33,10 +33,13 @@ In Proc. of the 38th IEEE International Conference on Distributed Computing Syst
 *Dong Chen*, David Irwin.\n
 In Proceedings of 2017 IEEE International Conference on Big Data (BigData'17), Boston, MA, USA, Dec 11-14, 2017. Accept Rate = 87/437 = 20%.
 
-
 - \[eEnergy'17\] [./papers/p45-Chen.pdf SunDance: Black-box Behind-the-Meter Solar Disaggregation].\n
 *Dong Chen*, David Irwin.\n
 In Proceedings of the eighth ACM International Conference on Future Energy Systems (e-Energy'17), Hongkong, 2017. Acceptance ratio = 26.7%.\n
+
+- \[Greenmetrics'17] [./papers/greenmetrics17.pdf Black-box Solar Performance Modeling: Comparing Physical, Machine Learning, and Hybrid Approaches].\n
+*Dong Chen*, David Irwin.\n
+In Proceedings of 2017 ACM Greenmetrics (Greenmetrics'17), Urbana-Champaign, IL, USA, June 6, 2017. Re-published: Performance Evaluation Review, Vol. 45, No. 2, September 2017.
 
 - \[BuildSys'16\] [./papers/buildsys16.pdf SunSpot: Exposing the Location of Anonymous Solar-powered Homes].\n
 *Dong Chen*, Srinivasan Iyengar, David Irwin, Prashant Shenoy.\n
@@ -49,6 +52,10 @@ In Proceedings of the 2016 IEEE International Conference on Smart Grid Communica
 - \[Percom'14\] [./papers/percom14.pdf Combined Heat and Privacy: Preventing Occupancy Detection from Smart Meters].\n
 *Dong Chen*, David Irwin, Prashant Shenoy, Jeannie Albrecht.\n
 In Proceedings of the 12th IEEE International Conference on Pervasive Computing and Communications (Percom'14), Budapest, Hungary, 2014. Acceptance rate = 14%.
+
+- \[BuildSys'13\] [./papers/buildsys13.pdf Non-Intrusive Occupancy Monitoring using Smart Meters].\n
+*Dong Chen*, Sean Barker, Adarsh Subbaswamy, David Irwin, Prashant Shenoy.\n
+In Proceedings of the Fifth ACM Workshop On Embedded Sensing Systems For Energy-Efficiency In Buildings (BuildSys'13), Roma, Italy, November 11-15, 2013. Accept Ratio = 39%.
 
 - \[ICGEC'11] A novel secure architecture for the Internet of Things.\n
 *Dong Chen*, Guiran Chang.\n
@@ -86,11 +93,3 @@ In Proceedings of the 12th Conference on Security and Privacy in Wireless and Mo
 Qi Li, *Dong Chen*. \n
 In Proceedings of the 12th Conference on Security and Privacy in Wireless and Mobile Networks, Miami.
 
-
-- \[Greenmetrics'17] [./papers/greenmetrics17.pdf Black-box Solar Performance Modeling: Comparing Physical, Machine Learning, and Hybrid Approaches].\n
-*Dong Chen*, David Irwin.\n
-In Proceedings of 2017 ACM Greenmetrics (Greenmetrics'17), Urbana-Champaign, IL, USA, June 6, 2017. Re-published: Performance Evaluation Review, Vol. 45, No. 2, September 2017.
-
-- \[BuildSys'13\] [./papers/buildsys13.pdf Non-Intrusive Occupancy Monitoring using Smart Meters].\n
-*Dong Chen*, Sean Barker, Adarsh Subbaswamy, David Irwin, Prashant Shenoy.\n
-In Proceedings of the Fifth ACM Workshop On Embedded Sensing Systems For Energy-Efficiency In Buildings (BuildSys'13), Roma, Italy, November 11-15, 2013. Accept Ratio = 39%.
