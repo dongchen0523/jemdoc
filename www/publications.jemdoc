@@ -7,8 +7,9 @@
 ~~~
 
 
-== Conference Papers
+== Selected Conference Papers
 
+~~~
 - \[IPSN’20\] [./papers/ipsn-143-chen.pdf SolarFinder: Automatic Detection of Solar Photovoltaic Arrays].\n
 /Qi Li/, /Yuzhou Feng/, /Yuyang Leng/ and *Dong Chen*.\n
 In Proc. of the 19th ACM/IEEE International Conference on Information Processing in Sensor Networks, IPSN'20, April 21-24, 2020, Sydney, Australia, Acceptance Rate = 21.33%.
@@ -60,9 +61,11 @@ In Proceedings of the Fifth ACM Workshop On Embedded Sensing Systems For Energy-
 - \[ICGEC'11] A novel secure architecture for the Internet of Things.\n
 *Dong Chen*, Guiran Chang.\n
 In Proceedings of 2011 Fifth International Conference on Genetic and Evolutionary Computing, pages: 311-314.
+~~~
 
-== Journal Articles
+== Selected Journal Articles
 
+~~~
 - \[Sensors\] A Dynamic Estimation of Service Level Based on Fuzzy Logic for Robustness in the Internet of Things. \n
 Bing Jia, Lifei Hao, Chuxuan Zhang, and *Dong Chen*. \n
 Sensors, 18(7), 2019.
@@ -78,18 +81,20 @@ Comput. Sci. Inf. Syst. 8 (4), 1207-1228, 2011.
 - \[TIIS\] A survey on security issues of M2M communications in cyber-physical systems.\n
 *Dong Chen*, Guiran Chang. \n
 KSII Transactions on Internet and Information Systems (TIIS) 6 (1), 24-45, 2011.
+~~~
 
-== Workshop Papers, Demos, and Posters
+== Selected Workshop Papers, Demos, and Posters
 
+~~~
 - \[BuildSys'19\] Solar-TK: A Solar Modeling and Forecasting Toolkit: Demo.\n
 Noman Bashir, *Dong Chen*, David Irwin, Prashant Shenoy.\n
 In Proceedings of Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, BuildSys'19, New York.
 
 - \[WiSec'20\] IoT devices discovery and identification using network traffic data: poster.\n
-Yuzhou Feng, Liangdong Deng, *Dong Chen*.\n
+/Yuzhou Feng/, Liangdong Deng, *Dong Chen*.\n
 In Proceedings of the 12th Conference on Security and Privacy in Wireless and Mobile Networks, Miami.
 
 - \[WiSec'20\] Exposing the location of anonymous solar-powered homes: poster. \n
-Qi Li, *Dong Chen*. \n
+/Qi Li/, *Dong Chen*. \n
 In Proceedings of the 12th Conference on Security and Privacy in Wireless and Mobile Networks, Miami.
-
+~~~
