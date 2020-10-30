@@ -12,15 +12,15 @@
 ~~~
 - \[{{<font color=red size=+0.5><b>}}BuildSys’20{{</b></font>}}\] [./papers/ipsn-143-chenx.pdf SolarTrader: Enabling Distributed Solar Energy Trading in Residential Virtual Power Plants].\n
 /Yuzhou Feng/, /Qi Li/, *Dong Chen*, and Raju Rangaswami.\n
-In Proc. of the 7th ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys 2020), Acceptance Rate = 24.3%.
+In Proc. of the 7th ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys 2020), Acceptance Rate = 24.3%, November 18–20, 2020, Virtual Event, Japan. ([https://github.com/cyber-physical-systems/SolarTrader Source Code and Data])
 
 - \[{{<font color=red size=+0.5><b>}}IGSC’20{{</b></font>}}\] [./papers/ipsn-143-chenx.pdf SolarDiagnostics: Automatic Rooftop Solar Photovoltaic Array Damage Detection].\n
 /Qi Li/, /Keyang Yu/ and *Dong Chen*.\n
-In Proc. of the Eleventh IEEE International Green and Sustainable Computing Conference, IGSC'20, Oct 19-22, Acceptance Rate = 23%.
+In Proc. of the Eleventh IEEE International Green and Sustainable Computing Conference, IGSC'20, Oct 19-22, Acceptance Rate = 23%. ([https://github.com/cyber-physical-systems/SolarDiagnostics Source Code and Data])
 
 - \[{{<font color=red size=+0.5><b>}}IPSN’20{{</b></font>}}\] [./papers/ipsn-143-chen.pdf SolarFinder: Automatic Detection of Solar Photovoltaic Arrays]. {{<font color=red size=+0.5><b>}}Presentation: {{</b></font>}}[./ipsn20_chen.mp4 Video]\n
 /Qi Li/, /Yuzhou Feng/, /Yuyang Leng/, and *Dong Chen*.\n
-In Proc. of the 19th ACM/IEEE International Conference on Information Processing in Sensor Networks, IPSN'20, April 21-24, 2020, Sydney, Australia, Acceptance Rate = 21.33%.
+In Proc. of the 19th ACM/IEEE International Conference on Information Processing in Sensor Networks, IPSN'20, April 21-24, 2020, Sydney, Australia, Acceptance Rate = 21.33%. ([https://github.com/cyber-physical-systems/SolarFinder Source Code and Data])
 
 - \[{{<font color=red size=+0.5><b>}}Milcom’19{{</b></font>}}\] [./papers/iotspot.pdf IoTSpot: Identifying the IoT Devices Using Their Anonymous Network Traffic Data].\n
 Liangdong Deng, /Yuzhou Feng/, *Dong Chen*, and Naphtali Rishe. \n
