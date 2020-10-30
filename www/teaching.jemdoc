@@ -8,10 +8,34 @@ Courses at Florida International University
 == Undergraduate Courses
 
 - COP 4610: Operating Systems. (Fall 2018, Fall 2019, Fall 2020)
+-- Covered Topics:
+--- Processes and Threads
+--- Deadlocks 
+--- Memory Management
+--- I/O
+--- File Systems
+--- Storage
+--- Security
+--- Distributed Systems
+--- Virtual Machines
 
 == Graduate Courses
 
-- COP 5614: Operating Systems. (Spring 2019, Spring 2020)
+- COP 5614: Operating Systems. (Spring 2019, Spring 2020, Spring 2021)
+-- Covered Topics:
+--- Processes and Threads
+--- Process Synchronization
+--- Real-time CPU Scheduling
+--- Deadlocks
+--- Memory Management
+--- IO
+--- File Systems
+--- Storage and Disks
+--- Security and Privacy
+--- Fault Tolerence 
+--- Distributed Systems
+--- Virtual Machines and Clouds
+--- Big Data Platform (and Machine Learning Platforms)
 
 \n
 ~~~
