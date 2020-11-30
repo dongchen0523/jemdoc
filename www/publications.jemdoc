@@ -10,9 +10,10 @@
 == Selected Conference Papers
 
 ~~~
-- \[{{<font color=red size=+0.5><b>}}BuildSys’20{{</b></font>}}\] [./papers/ipsn-143-chenx.pdf SolarTrader: Enabling Distributed Solar Energy Trading in Residential Virtual Power Plants].\n
+- \[{{<font color=red size=+0.5><b>}}BuildSys’20{{</b></font>}}\] [./papers/buildsys20-final74.pdf SolarTrader: Enabling Distributed Solar Energy Trading in Residential Virtual Power Plants].\n
 /Yuzhou Feng/, /Qi Li/, *Dong Chen*, and Raju Rangaswami.\n
-In Proc. of the 7th ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys 2020), Acceptance Rate = 24.3%, November 18–20, 2020, Virtual Event, Japan. ([https://github.com/cyber-physical-systems/SolarTrader Source Code and Data])
+In Proc. of the 7th ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys 2020), Acceptance Rate = 24.3%, November 18–20, 2020, Virtual Event, Japan. ([https://github.com/cyber-physical-systems/SolarTrader Source Code and Data])\n
+The {{<font color=red><b>}}Best Paper Award{{</b></font>}} from {{<b>}}[http://buildsys.acm.org/2020/ ACM BuildSys'20]{{</b>}}.
 
 - \[{{<font color=red size=+0.5><b>}}IGSC’20{{</b></font>}}\] [./papers/ipsn-143-chenx.pdf SolarDiagnostics: Automatic Rooftop Solar Photovoltaic Array Damage Detection].\n
 /Qi Li/, /Keyang Yu/ and *Dong Chen*.\n
