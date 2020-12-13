@@ -13,63 +13,89 @@
 - \[{{<font color=red size=+0.5><b>}}BuildSys’20{{</b></font>}}\] [./papers/buildsys20-final74.pdf SolarTrader: Enabling Distributed Solar Energy Trading in Residential Virtual Power Plants].\n
 /Yuzhou Feng/, /Qi Li/, *Dong Chen*, and Raju Rangaswami.\n
 In Proc. of the 7th ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys 2020), Acceptance Rate = 24.3%, November 18–20, 2020, Virtual Event, Japan. ([https://github.com/cyber-physical-systems/SolarTrader Source Code and Data])\n
-The {{<font color=red><b>}}Best Paper Award{{</b></font>}} from {{<b>}}[http://buildsys.acm.org/2020/ ACM BuildSys'20]{{</b>}}.
+The {{<font color=red><b>}}Best Paper Award{{</b></font>}} from {{<b>}}[http://buildsys.acm.org/2020/ ACM BuildSys'20]{{</b>}}.\n
+-- Keywords: {{<font color=Green size=-0.5>}}Multi-Agent Reinforcement Learning---Distributed Machine Learning---Distributed Systems{{</font>}}
+
 
 - \[{{<font color=red size=+0.5><b>}}IGSC’20{{</b></font>}}\] [./papers/ipsn-143-chenx.pdf SolarDiagnostics: Automatic Rooftop Solar Photovoltaic Array Damage Detection].\n
 /Qi Li/, /Keyang Yu/ and *Dong Chen*.\n
 In Proc. of the Eleventh IEEE International Green and Sustainable Computing Conference, IGSC'20, Oct 19-22, Acceptance Rate = 23%. ([https://github.com/cyber-physical-systems/SolarDiagnostics Source Code and Data])
+-- Keywords: {{<font color=Green size=-0.5>}}Image Processing---Deep Learning---Machine Learning{{</font>}}
 
 - \[{{<font color=red size=+0.5><b>}}IPSN’20{{</b></font>}}\] [./papers/ipsn-143-chen.pdf SolarFinder: Automatic Detection of Solar Photovoltaic Arrays]. {{<font color=red size=+0.5><b>}}Presentation: {{</b></font>}}[./ipsn20_chen.mp4 Video]\n
 /Qi Li/, /Yuzhou Feng/, /Yuyang Leng/, and *Dong Chen*.\n
 In Proc. of the 19th ACM/IEEE International Conference on Information Processing in Sensor Networks, IPSN'20, April 21-24, 2020, Sydney, Australia, Acceptance Rate = 21.33%. ([https://github.com/cyber-physical-systems/SolarFinder Source Code and Data])
+-- Keywords: {{<font color=Green size=-0.5>}}Image Processing---Deep Learning---Machine Learning---Big Data Analytics{{</font>}}
+
 
 - \[{{<font color=red size=+0.5><b>}}Milcom’19{{</b></font>}}\] [./papers/iotspot.pdf IoTSpot: Identifying the IoT Devices Using Their Anonymous Network Traffic Data].\n
 Liangdong Deng, /Yuzhou Feng/, *Dong Chen*, and Naphtali Rishe. \n
 In Proc. of the 38th IEEE Military Communications Conference, MILCOM 2019, November 12-14, 2019, Norfolk, VA.
+-- Keywords: {{<font color=Green size=-0.5>}}Security and Privacy---Machine Learning---Big Data Analytics---Internet of Things{{</font>}}
+
 
 - \[{{<font color=red size=+0.5><b>}}MASS’19{{</b></font>}}\] [./papers/solartk.pdf Solar-TK: A Data-driven Toolkit for Solar PV Performance Modeling and Forecasting].\n
 Noman Bashir, *Dong Chen*, David Irwin, and Prashant Shenoy. \n
 In Proc. of the 16th IEEE International Conference on Mobile Ad-Hoc and Smart Systems, November 4-7, 2019, Monterey, CA, USA.
+-- Keywords: {{<font color=Green size=-0.5>}}Big Data Analytics---System Sustainability{{</font>}}
+
 
 - \[{{<font color=red size=+0.5><b>}}BuildSys'18{{</b></font>}}\] [./papers/buildsys2018.pdf Staring at the Sun: A Physical Black-box Solar Performance Model]. \n
 *Dong Chen*, Joseph Breda, David Irwin.\n
 In Proc. of the 2018 ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys'18), November 07 - 08, 2018. Acceptance rate: 24.19%.
+-- Keywords: {{<font color=Green size=-0.5>}}Big Data Analytics---System Sustainability---Machine Learning{{</font>}}
+
 
 - \[{{<font color=red size=+0.5><b>}}ICDCS'18{{</b></font>}}\] [./papers/icdcs18.pdf Private Memoirs of IoT Devices: Safeguarding User Privacy in the IoT Era].\n
 *Dong Chen*, Phuthipong Bovornkeeratiroj, David Irwin and Prashant Shenoy. \n
 In Proc. of the 38th IEEE International Conference on Distributed Computing Systems (ICDCS'18), July 2 – 5, 2018, Vienna, Austria.
+-- Keywords: {{<font color=Green size=-0.5>}}Security and Privacy---Big Data Analytics{{</font>}}
+
 
 - \[{{<font color=red size=+0.5><b>}}BigData'17{{</b></font>}}\] [./papers/weatherman.pdf Weatherman: Exposing Weather-based Privacy Threats in Big Energy Data].\n
 *Dong Chen*, David Irwin.\n
 In Proceedings of 2017 IEEE International Conference on Big Data (BigData'17), Boston, MA, USA, Dec 11-14, 2017. Accept Rate = 87/437 = 20%.
+-- Keywords: {{<font color=Green size=-0.5>}}Security and Privacy---Machine Learning---Big Data Analytics{{</font>}}
+
 
 - \[{{<font color=red size=+0.5><b>}}eEnergy'17{{</b></font>}}\] [./papers/p45-Chen.pdf SunDance: Black-box Behind-the-Meter Solar Disaggregation].\n
 *Dong Chen*, David Irwin.\n
 In Proceedings of the eighth ACM International Conference on Future Energy Systems (e-Energy'17), Hongkong, 2017. Acceptance ratio = 26.7%.\n
+-- Keywords: {{<font color=Green size=-0.5>}}Big Data Analytics---System Sustainability---Machine Learning{{</font>}}
 
 - \[{{<font color=red size=+0.5><b>}}Greenmetrics'17{{</b></font>}}\] [./papers/greenmetrics17.pdf Black-box Solar Performance Modeling: Comparing Physical, Machine Learning, and Hybrid Approaches].\n
 *Dong Chen*, David Irwin.\n
 In Proceedings of 2017 ACM Greenmetrics (Greenmetrics'17), Urbana-Champaign, IL, USA, June 6, 2017. Re-published: Performance Evaluation Review, Vol. 45, No. 2, September 2017.
+-- Keywords: {{<font color=Green size=-0.5>}}Big Data Analytics---System Sustainability---Machine Learning{{</font>}}
+
 
 - \[{{<font color=red size=+0.5><b>}}BuildSys'16{{</b></font>}}\] [./papers/buildsys16.pdf SunSpot: Exposing the Location of Anonymous Solar-powered Homes].\n
 *Dong Chen*, Srinivasan Iyengar, David Irwin, Prashant Shenoy.\n
 In Proceedings of the 2016 ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys'16), Stanford, CA, USA, 2016. Accept Rate = 24.48%.\n
+-- Keywords: {{<font color=Green size=-0.5>}}Big Data Analytics---Image Processing---System Sustainability{{</font>}}
+
 
 - \[{{<font color=red size=+0.5><b>}}SmartGridComm'16{{</b></font>}}\] [./papers/smartgridcomm16.pdf SmartSim: A Device-Accurate Smart Home Simulator for Energy Analytics].\n
 *Dong Chen*, David Irwin, Prashant Shenoy.\n
 In Proceedings of the 2016 IEEE International Conference on Smart Grid Communications (SmartGridComm'16), Sydney, Australia, 2016.\n
+-- Keywords: {{<font color=Green size=-0.5>}}Big Data Analytics---Smart Homes---System Sustainability{{</font>}}
 
 - \[{{<font color=red size=+0.5><b>}}Percom'14{{</b></font>}}\] [./papers/percom14.pdf Combined Heat and Privacy: Preventing Occupancy Detection from Smart Meters].\n
 *Dong Chen*, David Irwin, Prashant Shenoy, Jeannie Albrecht.\n
 In Proceedings of the 12th IEEE International Conference on Pervasive Computing and Communications (Percom'14), Budapest, Hungary, 2014. Acceptance rate = 14%.
+-- Keywords: {{<font color=Green size=-0.5>}}Security and Privacy---Big Data Analytics---Smart Home{{</font>}}
 
 - \[{{<font color=red size=+0.5><b>}}BuildSys'13{{</b></font>}}\] [./papers/buildsys13.pdf Non-Intrusive Occupancy Monitoring using Smart Meters].\n
 *Dong Chen*, Sean Barker, Adarsh Subbaswamy, David Irwin, Prashant Shenoy.\n
 In Proceedings of the Fifth ACM Workshop On Embedded Sensing Systems For Energy-Efficiency In Buildings (BuildSys'13), Roma, Italy, November 11-15, 2013. Accept Ratio = 39%.
+-- Keywords: {{<font color=Green size=-0.5>}}Security and Privacy---Big Data Analytics---Smart Home{{</font>}}
+
 
 - \[{{<font color=red size=+0.5><b>}}ICGEC'11{{</b></font>}}\] A novel secure architecture for the Internet of Things.\n
 *Dong Chen*, Guiran Chang.\n
 In Proceedings of 2011 Fifth International Conference on Genetic and Evolutionary Computing, pages: 311-314.
+-- Keywords: {{<font color=Green size=-0.5>}}Security and Privacy---Internet of Things{{</font>}}
+
 ~~~
 
 == Selected Journal Articles
@@ -78,22 +104,31 @@ In Proceedings of 2011 Fifth International Conference on Genetic and Evolutionar
 - \[{{<font color=red size=+0.5><b>}}SUSCOM{{</b></font>}}\] SolarDiagnostics: Automatic Rooftop Solar Photovoltaic Array Damage Detection.\n
 /Qi Li/, /Keyang Yu/, *Dong Chen*.\n 
 Sustainable Computing: Informatics and Systems (SUSCOM), 2020.
+-- Keywords: {{<font color=Green size=-0.5>}}Image Processing---Deep Learning---Machine Learning{{</font>}}
+
 
 - \[{{<font color=red size=+0.5><b>}}Sensors{{</b></font>}}\] A Dynamic Estimation of Service Level Based on Fuzzy Logic for Robustness in the Internet of Things. \n
 Bing Jia, Lifei Hao, Chuxuan Zhang, and *Dong Chen*. \n
 Sensors, 18(7), 2019.
+-- Keywords: {{<font color=Green size=-0.5>}}Internet of Things{{</font>}}
+
 
 - \[{{<font color=red size=+0.5><b>}}TOSG{{</b></font>}}\] [./papers/tosg_.pdf Preventing Occupancy Detection from Smart Meters].\n
 *Dong Chen*, Sandeep Kalra, David Irwin, Prashant Shenoy, and Jeannie Albrecht.\n
 IEEE Transactions on Smart Grid, 6(5), pp.2426-2434, 2015, Impact Factor: 8.267.
+-- Keywords: {{<font color=Green size=-0.5>}}Security and Privacy---Machine Learning---Big Data Analytics---Smart Home{{</font>}}
+
 
 - \[{{<font color=red size=+0.5><b>}}ComSiS{{</b></font>}}\] TRM-IoT: A trust management model based on fuzzy reputation for internet of things.\n
 *Dong Chen*, Guiran Chang, Dawei Sun, Jie Jia, Xingwei Wang.\n
 Comput. Sci. Inf. Syst. 8 (4), 1207-1228, 2011.
+-- Keywords: {{<font color=Green size=-0.5>}}Trust and Reputation---Internet of Things{{</font>}}
 
 - \[{{<font color=red size=+0.5><b>}}TIIS{{</b></font>}}\] A survey on security issues of M2M communications in cyber-physical systems.\n
 *Dong Chen*, Guiran Chang. \n
 KSII Transactions on Internet and Information Systems (TIIS) 6 (1), 24-45, 2011.
+-- Keywords: {{<font color=Green size=-0.5>}}Trust and Reputation---M2M---Cyber-Physical Systems{{</font>}}
+
 ~~~
 
 == Selected Workshop Papers, Demos, and Posters
@@ -102,20 +137,30 @@ KSII Transactions on Internet and Information Systems (TIIS) 6 (1), 24-45, 2011.
 - \[{{<font color=red size=+0.5><b>}}BuildSys’20{{</b></font>}}\] Automatic Damage Detection on Rooftop Solar PhotovoltaicArraysoutomatic Damage Detection on Rooftop Solar PhotovoltaicArrays: Poster.\n
 /Qi Li/, /Keyang Yu/, *Dong Chen*.\n
 In Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, BuildSys'20, November 18-20, 2020, Virtual Event, Japan.
+-- Keywords: {{<font color=Green size=-0.5>}}Image Processing---Deep Learning---Machine Learning{{</font>}}
+
 
 - \[{{<font color=red size=+0.5><b>}}BigDataCPS’20{{</b></font>}}\] SmartAttack: Open-source Attack Models for Enabling Security Research in Smart Homes.\n  
 /Kengyang Yu/,*Dong Chen*.\n
 In Proceedings of the 2nd IEEE International Workshop on Big Data Analytics of Cyber-Physical Systems (BigDataCPS’20), Oct 19, 2020, co-located with IGSC’20.
+-- Keywords: {{<font color=Green size=-0.5>}}Security and Privacy---Machine Learning---Big Data Analytics---Smart Home{{</font>}}
+
 
 - \[{{<font color=red size=+0.5><b>}}BuildSys’19{{</b></font>}}\] Solar-TK: A Solar Modeling and Forecasting Toolkit: Demo.\n
 Noman Bashir, *Dong Chen*, David Irwin, Prashant Shenoy.\n
 In Proceedings of Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, BuildSys'19, November 13-14, 2019, New York, NY, USA.
+-- Keywords: {{<font color=Green size=-0.5>}}Big Data Analytics---System Sustainability{{</font>}}
+
 
 - \[{{<font color=red size=+0.5><b>}}WiSec’20{{</b></font>}}\] IoT devices discovery and identification using network traffic data: poster.\n
 /Yuzhou Feng/, Liangdong Deng, *Dong Chen*.\n
 In Proceedings of the 12th Conference on Security and Privacy in Wireless and Mobile Networks, Miami.
+-- Keywords: {{<font color=Green size=-0.5>}}Security and Privacy---Machine Learning---Big Data Analytics---Smart Home{{</font>}}
+
 
 - \[{{<font color=red size=+0.5><b>}}WiSec’20{{</b></font>}}\] Exposing the location of anonymous solar-powered homes: poster. \n
 /Qi Li/, *Dong Chen*. \n
 In Proceedings of the 12th Conference on Security and Privacy in Wireless and Mobile Networks, Miami.
+-- Keywords: {{<font color=Green size=-0.5>}}Security and Privacy---Big Data Analytics---Smart Home{{</font>}}
+
 ~~~

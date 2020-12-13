@@ -6,7 +6,7 @@
 {}{img_left}{./dongchen.jpeg}{alt text}{131}{190}{http://users.cis.fiu.edu/~dochen/}
 === DONG CHEN
 Assistant Professor,\n
-[https://www.cis.fiu.edu/ School of Computing and Information Sciences],\n
+[https://www.cis.fiu.edu/ School of Computing and Information Sciences (SCIS)],\n
 [https://www.fiu.edu/ Florida International University, The State University of Florida at Miami].\n
 ~~~
 
@@ -19,14 +19,16 @@ I am an Assistant Professor of School of Computing and Information Sciences (SCI
 == Research Interests
 
 ~~~
-- My research group aims to build data-driven computer systems with a particular emphasis on {{<font color=rgb(108, 52, 131)><b>}}System Sustainability{{</b></font>}}, {{<font color=rgb(108, 52, 131)><b>}}Data Privacy{{</b></font>}}, and {{<font color=rgb(108, 52, 131)><b>}}System Security{{</b></font>}} of {{<font color=rgb(108, 52, 131)><b>}}Cyber-Physical Systems (CPS){{</b></font>}}, such as Internet of Things, smart home, smart energy, smart transportation, and smart cities. 
-- Our work has been spanning multiple technical fields, including {{<font color=rgb(108, 52, 131)><b>}}Privacy Preserving{{</b></font>}}, {{<font color=rgb(108, 52, 131)><b>}}Distributed Machine Learning{{</b></font>}}, {{<font color=rgb(108, 52, 131)><b>}}Deep Learning{{</b></font>}}, {{<font color=rgb(108, 52, 131)><b>}}Image Processing{{</b></font>}}, and {{<font color=rgb(108, 52, 131)><b>}}Multi-Agent Reinforcement Learning{{</b></font>}}. We [https://github.com/cyber-physical-systems/ open-source] all the systems (including their evaluation datasets) we build.
+- My research group aims to {{<font color=black><b>}}build data-driven computer systems{{</b></font>}} with a particular emphasis on {{<font color=black>}}System Sustainability{{</font>}}, {{<font color=black>}}Data Privacy{{</font>}}, and {{<font color=black>}}System Security{{</font>}} of {{<font color=black><b>}}Cyber-Physical Systems (CPS){{</b></font>}}, such as Internet of Things (IoT), smart homes, smart energy, smart transportation, and smart cities. 
+- Our work has been spanning multiple technical fields, including /Big Data Analytics/, /Distributed and Tiny Machine Learning/, /Deep Learning/, /Image Processing/, and /Multi-Agent Reinforcement Learning/. We [https://github.com/cyber-physical-systems/ open-source] all the systems (including their evaluation datasets) we build.
 - {{<font color=red>}}I am always looking for outstanding Ph.D. and undergraduate students to join the team. Please send me your CV and transcripts.{{</font>}}
 ~~~
 
 == What's New
 
 ~~~
+- 12/2020 Serve as TPC member for [https://icdcs2021.us/  ICDCS'21], please consider submitting!
+- 12/2020 Congratulations to Qi for receiving 2020 SCIS Annual Best Research Student Award!
 - 11/2020 [http://users.cis.fiu.edu/~dochen/papers/buildsys20-final74.pdf SolarTrader] paper won the  {{<font color=red><b>}}Best Paper Award{{</b></font>}} at {{<b>}}[http://buildsys.acm.org/2020/ ACM BuildSys'20]{{</b>}}.
 - 11/2020 Congratulations to Qi and Yuzhou for being selected as ACM SenSys'20 and BuildSys'20 Student Volunteers!
 - 10/2020 Receive CERTIFICATE OF APPRECIATION from IGSC Steering Committee. 
